@@ -1,5 +1,5 @@
 #include <stdio.h>
-// function declaration 
+// function declaration here if we dont write print then execution is also same
 void printHello();
 void printGoodbye();
 
